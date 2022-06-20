@@ -1,0 +1,9 @@
+//endpoint url
+
+http://image-filter-tuyo.us-east-1.elasticbeanstalk.com/
+
+
+// http://{{EB_URL}}/filteredimage?image_url=https://images.unsplash.com/photo-1577938006455-9c04410b9a67?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHVza3klMjBwdXBweXxlbnwwfHwwfHw%3D&w=1000&q=80
+//endpoint response to valid GET request
+
+http://image-filter-tuyo.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.unsplash.com/photo-1577938006455-9c04410b9a67?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHVza3klMjBwdXBweXxlbnwwfHwwfHw%3D&w=1000&q=80
